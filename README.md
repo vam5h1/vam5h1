@@ -14,27 +14,41 @@ Aspiring **Data Analyst** | Excel, SQL, Power BI, Python | Data Cleaning, Analys
 
 ---
 
-## 🛠 Skills & Tools
+## 🏆 Key Certifications
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C91?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FF6F61?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4BCF3B?style=for-the-badge)
+<!-- IBM & Microsoft as side-by-side clickable images -->
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/JCGRQ2BN2W12">
+    <img src="./certificates/IBM_Data_Analyst_Professional_Certificate.png" width="180" alt="IBM Data Analyst Certificate"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/specialization/WOJZ2TMSWF3Z">
+    <img src="./certificates/Microsoft_PowerBI_Data_Analyst_Professional_Certificate.png" width="180" alt="Microsoft Power BI Certificate"/>
+  </a>
+</p>
 
-- Data cleaning, transformation, KPI reporting, dashboarding  
-- ETL processes, business-focused storytelling, workflow automation  
+<p align="center"><em>IBM Data Analyst Professional Certificate &nbsp; | &nbsp; Microsoft Power BI Data Analyst Professional Certificate</em></p>
 
 ---
 
-## 🎓 Certifications
+## 🛠 Skills & Tools
 
-[![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst-Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/JCGRQ2BN2W12)  
-[![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-Certificate-yellow?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)](https://www.coursera.org/account/accomplishments/specialization/WOJZ2TMSWF3Z)  
-[![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-Skills-lightblue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/706ffc84-afd0-4553-88ce-79159f566cf2)  
-[![AWS Academy](https://img.shields.io/badge/AWS-Academy-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/3198f079-6d41-4c18-b25a-ff1b0eaa996b/linked_in_profile)  
-[![ML NPTEL](https://img.shields.io/badge/ML-NPTEL-silver?style=for-the-badge)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS52S11401133191129617)  
+- 🟢 Excel ![Excel](https://img.icons8.com/color/24/microsoft-excel-2019.png)  
+- 🟢 SQL ![SQL](https://img.icons8.com/color/24/sql.png)  
+- 🟢 Power BI ![Power BI](https://img.icons8.com/color/24/power-bi.png)  
+- 🟢 Python ![Python](https://img.icons8.com/color/24/python.png)  
+- 🟢 Data Analysis  
+- 🟢 ETL / Data Preparation  
+- 🟢 Dashboarding  
+- 🟢 Business Storytelling  
+
+---
+
+## 🎓 Other Certifications
+
+- [![AWS Academy Graduate](https://img.shields.io/badge/AWS-Academy-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/3198f079-6d41-4c18-b25a-ff1b0eaa996b/linked_in_profile)  
+- [![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-Skills-lightblue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/706ffc84-afd0-4553-88ce-79159f566cf2)  
+- [![Introduction to ML - NPTEL](https://img.shields.io/badge/ML-NPTEL-silver?style=for-the-badge)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS52S11401133191129617)  
 
 **All badges:** [Credly Profile](https://www.credly.com/users/vamshi-krishna-reddy-pasula/badges#credly)  
 
