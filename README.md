@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vamshi Krishna Reddy Pasula
 
-**Data Analyst** | Advanced Excel, SQL, Power BI, Python | Business Intelligence, Data Analysis & Visualization
+**Data Analyst** | Skilled in Business Intelligence, Data Analysis & Visualization
 
 ---
 
