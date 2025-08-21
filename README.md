@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vamshi Krishna Reddy Pasula
 
-**Data Analyst** | Skilled in Business Intelligence, Data Analysis & Visualization
+**Data Analyst (Certified by IBM & Microsoft)** | Skilled in Business Intelligence, Data Analysis & Visualization
 
 ---
 
