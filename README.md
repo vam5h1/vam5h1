@@ -6,8 +6,8 @@
 
 ## 🎯 Quick Overview
 
-- **M.S. Computer Science**, New Jersey Institute of Technology, USA  
-- **B.E. Computer Science & Engineering**, Vasavi College of Engineering, Hyderabad  
+- **M.S. Computer Science**, New Jersey Institute of Technology, USA  (2022-2023)
+- **B.E. Computer Science & Engineering**, Vasavi College of Engineering, Hyderabad  (2017-2021)
 - **Age:** 25 | **Location:** Hyderabad, Telangana, India  
 - **Experience:** Assistant System Engineer Trainee, TCS (2021–2022)  
 - Currently upskilling in **Codebasics Data Analytics Bootcamp 5.0**  
